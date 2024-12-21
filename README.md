@@ -38,11 +38,10 @@ The system leverages Market Basket Analysis to recommend colleges based on patte
 ---
 
 ## **Demo**
-**Screenshot 1**:  
+ ![output](https://github.com/user-attachments/assets/7b128a74-a26a-402d-ba6e-ae139d90e71d)
+
 The interface to select preferences for facilities, location, and ranking range.  
 
-**Screenshot 2**:  
-The system displays recommended colleges with details such as name, location, and ranking.  
 
 ---
 
